@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Downtothecode
+- 👀 I’m interested in python/coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python coding projects
+- 📫 How to reach me at downtothecode@gmail.com
